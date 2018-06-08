@@ -2,22 +2,20 @@
 """
 Created on Sun Jan 14 23:43:12 2018
 
-Note that: 
+Note: 
     This code is translated from the MATLAB version of minresQLP:
         http://www.stanford.edu/group/SOL/software.html
         
-Contact: 
-    yang.liu15(AT)uqconnect.edu.au
-    
-Author:
+Authors:
     Yang Liu, 
     School of Mathematics and Physics, 
     The University of Queensland.
+    yang.liu15(AT)uqconnect.edu.au
     
-Advisor: 
     Farbod Roosta-Khorasani,
     School of Mathematics and Physics,
     The University of Queensland.
+    fred.roosta(AT)uq.edu.au
 
 REFERENCES:
     S.-C. Choi, C. C. Paige, and M. A. Saunders,
